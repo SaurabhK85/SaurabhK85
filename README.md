@@ -1,4 +1,4 @@
-<h1 align="center"> Hi <img src="https://github.com/SaurabhK85/SaurabhK85/blob/main/shake-hand.gif" width="60">, I'm Saurabh Kumar <picture><img src = "https://github.com/SaurabhK85/SaurabhK85/blob/main/profile.gif" width = 50px></picture></h3></h1>
+<h1 align="center"> Hi <img src="https://github.com/SaurabhK85/SaurabhK85/blob/main/shake-hand.gif" width="50">, I'm Saurabh Kumar <picture><img src = "https://github.com/SaurabhK85/SaurabhK85/blob/main/profile.gif" width = 50px></picture></h3></h1>
 <h3 align="center"><img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">   Student at <a href="https://www.nitap.ac.in/">NIT Arunachal Pradesh</a> || CSE'26 || Web Developer
   <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"></h3>
 <p align="center">
