@@ -7,6 +7,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Thanks+for+visiting!+..&hearts;++;Self-taught+Disciple,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
+## 🚀 Skills and Expertise
+- **Programming languages**: C++ , Javascript 
+- **Frontend**: HTML5, CSS3 , React.js ,Ant Design 
+- **Backend**: Node.js, Express.js, Redis , MongoDB, Mongoose, MySQL, sequelize 
+- **Tools & Technologies**: Git, GitHub, VS Code, Postman
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/saurabh-kumar-b67024268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saurabh-kumar-b67024268/" height="30" width="40" /></a>
