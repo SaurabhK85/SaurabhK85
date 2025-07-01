@@ -8,9 +8,9 @@
 </p>
 
 ## 🚀 Skills and Expertise
-- **Programming languages**: C++ , Javascript 
-- **Frontend**: HTML5, CSS3 , React.js ,Ant Design 
-- **Backend**: Node.js, Express.js, Redis , MongoDB, Mongoose, MySQL, sequelize 
+- **Programming languages**: C, Java, Pyhton , Javascript 
+- **Frontend**: HTML5, CSS3 , React.js 
+- **Backend**: Node.js, Express.js, MongoDB, Mongoose, MySQL
 - **Tools & Technologies**: Git, GitHub, VS Code, Postman
 
 
