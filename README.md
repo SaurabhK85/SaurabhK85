@@ -10,15 +10,16 @@
 
 <h3 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="40">
-  Student at <a href="https://www.nitap.ac.in/">NIT Arunachal Pradesh</a> || CSE'26 || Web Developer 
+  Final Year CSE Student at <a href="https://www.nitap.ac.in/">NIT Arunachal Pradesh</a> || Full Stack Web Developer
   <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="40">
 </h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Thanks+for+visiting!+..&hearts;++;CSE+Undergrad+at+NIT+AP;Web+Developer+|+AI/ML+Enthusiast;400%2B+DSA+Problems+Solved;Always+learning+new+things">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=650&height=100&lines=Thanks+for+visiting!+..❤️;Final+Year+CSE+Undergrad+at+NIT+AP;Full+Stack+Web+Developer;AI/ML+Enthusiast;400%2B+DSA+Problems+Solved;Always+learning+new+things">
   </a>
 </p>
+
 
 
 ---
