@@ -11,20 +11,27 @@
 
 ---
 
+## 👨‍💻 About Me
+🎓 B.Tech CSE @ NIT Arunachal Pradesh (2022–2026) | CGPA: **8.93**  
+💻 Passionate about **Software Development, Web Development, and AI/ML**  
+📍 From Patna, Bihar | ✉️ [skbarh85@gmail.com](mailto:skbarh85@gmail.com)  
+
+---
+
 ## 💼 Experience
 - **Indian Oil Corporation Ltd. (IOCL)** | *SDE Intern* (Jun 2025 – Jul 2025)  
-  - Developed a **real-time fire/smoke detection system** using YOLOv8 & Computer Vision.  
-  - Built a **Django-based dashboard** for live monitoring & event tracking.  
+  - Built **real-time fire/smoke detection system** using YOLOv8 & Computer Vision.  
+  - Created a **Django dashboard** for monitoring & event tracking.  
 
 - **North East Renewable Energy Research Lab, IIT Guwahati** | *ML Intern* (Dec 2024 – Jan 2025)  
-  - Designed ML system to identify biodegradable waste.  
-  - Contributed to design, development, and final report.  
+  - Developed ML model to classify biodegradable waste.  
+  - Contributed to design, development & final project report.  
 
 ---
 
 ## 🚀 Projects
 - **Foodly** | *MERN Stack, JWT, MongoDB Atlas, Vercel*  
-  Full-stack food delivery platform with authentication, real-time search, dynamic cart & order tracking.  
+  Full-stack food delivery platform with authentication, live search, dynamic cart & order tracking.  
 
 - **ClimGo** | *React, Axios, Weather API*  
   Responsive weather app showing temperature, humidity, wind speed & error handling.  
@@ -41,10 +48,10 @@
 ---
 
 ## 🏆 Achievements
-- 🎯 Solved **400+ DSA problems** (LeetCode + GFG)  
-- 📖 **Reliance Foundation Scholar** – Selected among top 5,000 nationwide  
-- 🛡 Training in **Ethical Hacking & Penetration Testing** (C-DAC Noida)  
-- 🎓 **GATE 2025 Qualified** – Score: 356, AIR: 20760  
+- ✅ Solved **400+ DSA problems** (LeetCode + GFG)  
+- 🎯 **GATE 2025 Qualified** – Score: 356, AIR: 20760  
+- 📖 **Reliance Foundation Scholar** – Top 5,000 nationwide  
+- 🛡 Completed **Ethical Hacking & Penetration Testing** training (C-DAC, Noida)  
 
 ---
 
