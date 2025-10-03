@@ -35,6 +35,11 @@
 
 ## 💼 Experience
 
+- **Basil Infotech Pvt. Ltd** | *SDE Intern* Remote(Jun 2025 – Jul 2025)
+  - Worked on **Centralized School and College Management Software**.  
+  - Implemented software modules and collaborated with the team under **Mr. Sudhanshu Bakshi**’s supervision.  
+  - Prepared the internship report and submitted for academic evaluation.
+  - 
 - **Indian Oil Corporation Ltd. (IOCL)** | *SDE Intern* (Jun 2025 – Jul 2025)  
   - Built **real-time fire/smoke detection system** using YOLOv8 & Computer Vision for a 490-acre refinery.  
   - Developed a **Django-based dashboard** for real-time monitoring & event tracking with timestamps.
@@ -43,10 +48,6 @@
   - Developed a **machine learning system** to classify biodegradable waste.  
   - Assisted in system design, development, and final project report.
 
-- **Basil Infotech Pvt. Ltd** | *SDE Intern* (Jun 2025 – Jul 2025)
-  - Worked on **Centralized School and College Management Software**.  
-  - Implemented software modules and collaborated with the team under **Mr. Sudhanshu Bakshi**’s supervision.  
-  - Prepared the internship report and submitted for academic evaluation.
 
 - **National Institute of Technology, Patna** | *Internship Project* (Jun 2024 – Jul 2024)  
   - Completed project titled **“Recent Advancements in Information and Communication Technologies for Renewable Energy Sources based Smart Grid Infrastructure”**.  
