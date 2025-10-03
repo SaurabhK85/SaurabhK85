@@ -51,7 +51,7 @@
 
 - **National Institute of Technology, Patna** | *Research Intern* (Jun 2024 – Jul 2024)  
   - Completed project titled **“Recent Advancements in Information and Communication Technologies for Renewable Energy Sources based Smart Grid Infrastructure”**.  
-  - Carried out research, design, and development under **Dr. Samrat Mukherjee**.
+  - Carried out research, design, and development under **Dr. Antriksh Gowswami**.
 
 
 ## 🚀 Projects
