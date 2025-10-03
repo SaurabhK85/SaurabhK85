@@ -34,15 +34,24 @@
 ---
 
 ## 💼 Experience
+
 - **Indian Oil Corporation Ltd. (IOCL)** | *SDE Intern* (Jun 2025 – Jul 2025)  
-  - Built **real-time fire/smoke detection system** using YOLOv8 & Computer Vision.  
-  - Created a **Django dashboard** for monitoring & event tracking.  
+  - Built **real-time fire/smoke detection system** using YOLOv8 & Computer Vision for a 490-acre refinery.  
+  - Developed a **Django-based dashboard** for real-time monitoring & event tracking with timestamps.
 
 - **North East Renewable Energy Research Lab, IIT Guwahati** | *ML Intern* (Dec 2024 – Jan 2025)  
-  - Developed ML model to classify biodegradable waste.  
-  - Contributed to design, development & final project report.  
+  - Developed a **machine learning system** to classify biodegradable waste.  
+  - Assisted in system design, development, and final project report.
 
----
+- **National Institute of Technology, Arunachal Pradesh** | *Intern at Basil Infotech* (Dates TBD)  
+  - Worked on **Centralized School and College Management Software**.  
+  - Implemented software modules and collaborated with the team under **Mr. Sudhanshu Bakshi**’s supervision.  
+  - Prepared the internship report and submitted for academic evaluation.
+
+- **National Institute of Technology, Patna** | *Internship Project* (Jun 2024 – Jul 2024)  
+  - Completed project titled **“Recent Advancements in Information and Communication Technologies for Renewable Energy Sources based Smart Grid Infrastructure”**.  
+  - Carried out research, design, and development under **Dr. Samrat Mukherjee**.
+
 
 ## 🚀 Projects
 - **Foodly** | *MERN Stack, JWT, MongoDB Atlas, Vercel*  
