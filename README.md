@@ -1,30 +1,65 @@
-<h1 align="center"> Hi , I'm Saurabh Kumar <picture><img src = "https://github.com/SaurabhK85/SaurabhK85/blob/main/profile.gif" width = 50px></picture></h3></h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhk85&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhk85" /> </p>
+# Hi, I'm Saurabh Kumar 👋  
 
-<h3 align="center"><img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">   Student at <a href="https://www.nitap.ac.in/">NIT Arunachal Pradesh</a> || CSE'26 || Web Developer
-  <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"></h3>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Thanks+for+visiting!+..&hearts;++;Self-taught+Disciple,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
+🎓 B.Tech 3rd Year Student at **NIT Arunachal Pradesh** (CSE, CGPA: 8.93)  
+💻 Passionate about **Software Development, Web Development, and AI/ML**  
+📍 Based in Patna, Bihar | ✉️ [skbarh85@gmail.com](mailto:skbarh85@gmail.com) | 📞 +91-9430263683  
 
-## 🚀 Skills and Expertise
-- **Programming languages**: C, Java, Pyhton , Javascript 
-- **Frontend**: HTML5, CSS3 , React.js 
-- **Backend & Database**: Node.js, Express.js, MongoDB, Mongoose, MySQL
-- **Tools & Technologies**: Git, GitHub, VS Code, Postman
+---
 
+## 🏫 Education
+- **National Institute of Technology, Arunachal Pradesh** (2022 – 2026)  
+  B.Tech in Computer Science & Engineering | CGPA: 8.93  
+- **Class 12 (BSEB Board, 2022):** 79.6%  
+- **Class 10 (CBSE Board, 2020):** 87.2%  
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 💼 Experience
+- **Indian Oil Corporation Ltd. (IOCL)** | *SDE Intern* (Jun 2025 – Jul 2025)  
+  - Developed a **real-time fire/smoke detection system** using YOLOv8 & Computer Vision.  
+  - Built a **Django-based dashboard** for live monitoring & automatic event tracking.  
+
+- **North East Renewable Energy Research Lab, IIT Guwahati** | *ML Intern* (Dec 2024 – Jan 2025)  
+  - Designed ML system to identify biodegradable waste using advanced algorithms.  
+  - Contributed to system design, development, and final project report.  
+
+---
+
+## 🚀 Projects
+- **[Foodly](#)** | *MERN Stack, JWT, MongoDB, Vercel*  
+  - Full-stack food delivery platform with authentication, real-time search, dynamic cart & order tracking.  
+  - Deployed frontend on Vercel & backend on Railway with MongoDB Atlas.  
+
+- **[ClimGo](#)** | *React, Axios, Weather API*  
+  - Responsive weather app showing live weather, temperature, humidity & wind speed.  
+  - Includes dynamic weather icons & error handling for invalid city names.  
+
+---
+
+## 🛠 Technical Skills
+- **Languages:** C, Java, Python, JavaScript  
+- **Web Development:** HTML5, CSS3, Bootstrap, React.js, Node.js, Express.js  
+- **Databases:** MySQL, MongoDB (Basic)  
+- **Tools:** Git, GitHub  
+- **Computer Fundamentals:** DSA, OOPs, Software Engineering, OS, DBMS, CN  
+
+---
+
+## 🏆 Certifications & Achievements
+- ✅ Solved **400+ DSA problems** on LeetCode & GFG  
+- 🎯 **GATE 2025 Qualified** – Score: 356, AIR: 20760  
+- 🛡 Completed training in **Ethical Hacking & Penetration Testing** (C-DAC, Noida)  
+- 📖 **Reliance Foundation Scholar** – Top 5,000 students nationwide  
+
+---
+
+## 📫 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saurabh-kumar-b67024268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saurabh-kumar-b67024268/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/saurabhk85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/saurabhk85" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/singh__9472?igsh=odnybzf5zgfwdzly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/singh__9472?igsh=odnybzf5zgfwdzly" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@singh__saurabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@singh__saurabh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/saurabh_kr85/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/saurabh_kr85/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/skbarpjq3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/skbarpjq3/" height="30" width="40" /></a>
-</p>
+  <a href="https://linkedin.com/in/saurabh-kumar-b67024268/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/saurabh"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white" /></a>
+  <a href="mailto:skbarh85@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
+</p>  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-
+---
+⭐️ From [Saurabh Kumar](https://github.com/saurabh)
