@@ -43,7 +43,7 @@
   - Developed a **machine learning system** to classify biodegradable waste.  
   - Assisted in system design, development, and final project report.
 
-- **National Institute of Technology, Arunachal Pradesh** | *Intern at Basil Infotech* (Dates TBD)  
+- **Basil Infotech Pvt. Ltd** | *SDE Intern* (Jun 2025 – Jul 2025)
   - Worked on **Centralized School and College Management Software**.  
   - Implemented software modules and collaborated with the team under **Mr. Sudhanshu Bakshi**’s supervision.  
   - Prepared the internship report and submitted for academic evaluation.
