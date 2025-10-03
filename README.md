@@ -35,7 +35,7 @@
 
 ## 💼 Experience
 
-- **Basil Infotech Pvt. Ltd** | *SDE Intern* Remote(Jun 2025 – Jul 2025)
+- **Basil Infotech Pvt. Ltd** | *SDE Intern* [Remote] (Jun 2025 – Jul 2025)
   - Worked on **Centralized School and College Management Software**.  
   - Implemented software modules and collaborated with the team under **Mr. Sudhanshu Bakshi**’s supervision.  
   - Prepared the internship report and submitted for academic evaluation.
@@ -49,7 +49,7 @@
   - Assisted in system design, development, and final project report.
 
 
-- **National Institute of Technology, Patna** | *Internship Project* (Jun 2024 – Jul 2024)  
+- **National Institute of Technology, Patna** | *Research Intern* (Jun 2024 – Jul 2024)  
   - Completed project titled **“Recent Advancements in Information and Communication Technologies for Renewable Energy Sources based Smart Grid Infrastructure”**.  
   - Carried out research, design, and development under **Dr. Samrat Mukherjee**.
 
