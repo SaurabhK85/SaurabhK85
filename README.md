@@ -75,11 +75,11 @@
   <a href="https://linkedin.com/in/saurabh-kumar-b67024268/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/SaurabhK85"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Saurabh_kr85/"><img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white" /></a>
+  <a href="mailto:skbarh85@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
   <a href="https://auth.geeksforgeeks.org/user/skbarpjq3" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
   <a href="https://www.instagram.com/singh__9472/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="mailto:skbarh85@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
 </p>  
 
 ---
