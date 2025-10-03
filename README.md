@@ -57,9 +57,11 @@
 
 ## 📫 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/saurabh-kumar-b67024268/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/saurabh_kr85/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/skbarpjq3/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
-  <a href="https://github.com/SaurabhK85"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/saurabh-kumar-b67024268/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/saurabh"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white" /></a>
   <a href="mailto:skbarh85@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
-</p>
+</p>  
+
+---
+⭐️ From [Saurabh Kumar](https://github.com/SaurabhK85)
