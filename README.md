@@ -10,7 +10,7 @@
 ## 🚀 Skills and Expertise
 - **Programming languages**: C, Java, Pyhton , Javascript 
 - **Frontend**: HTML5, CSS3 , React.js 
-- **Backend**: Node.js, Express.js, MongoDB, Mongoose, MySQL
+- **Backend & Database**: Node.js, Express.js, MongoDB, Mongoose, MySQL
 - **Tools & Technologies**: Git, GitHub, VS Code, Postman
 
 
