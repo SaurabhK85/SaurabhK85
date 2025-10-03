@@ -1,6 +1,6 @@
 # Hi, I'm Saurabh Kumar 👋  
 
-🎓 B.Tech 3rd Year Student at **NIT Arunachal Pradesh** (CSE, CGPA: 8.93)  
+🎓 B.Tech Final Year Student at **NIT Arunachal Pradesh** (CSE, CGPA: 8.93)  
 💻 Passionate about **Software Development, Web Development, and AI/ML**  
 📍 Based in Patna, Bihar | ✉️ [skbarh85@gmail.com](mailto:skbarh85@gmail.com) | 📞 +91-9430263683  
 
