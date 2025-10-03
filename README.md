@@ -56,10 +56,10 @@
 ## 📫 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/saurabh-kumar-b67024268/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/saurabh"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white" /></a>
+  <a href="https://github.com/SaurabhK85"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Saurabh_kr85/"><img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white" /></a>
   <a href="mailto:skbarh85@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
 </p>  
 
 ---
-⭐️ From [Saurabh Kumar](https://github.com/saurabh)
+⭐️ From [Saurabh Kumar](https://github.com/SaurabhK85)
